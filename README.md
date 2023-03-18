@@ -34,6 +34,5 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ari-jackson&show_icons=true&locale=en" alt="ari-jackson" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ari-jackson&" alt="ari-jackson" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=ari-jackson&show_icons=true&locale=en" alt="ari-jackson-git-stats-widget" /></p>
+<p  align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ari-jackson&" alt="ari-jackson-git-streaks-widget" /></p>
