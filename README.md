@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **how to think in systems**
 
-- 👨‍💻 All of my projects are available at [https:ari-jackson.github.io/](ari-jackson.github.io/)
+- 👨‍💻 All of my projects are available at [ari-jackson.github.io/](https:ari-jackson.github.io/)
 
 - 📫 How to reach me **arijackson@pursuit.org**
 <br>
