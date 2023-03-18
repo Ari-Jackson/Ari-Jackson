@@ -1,6 +1,6 @@
 ![header](/header.png)
 
-<h3 align="center">I'm full-stack developer eager to work on projects that help people learn and do more, faster, and in more enjoyable (read fun) ways.</h3>      
+<h3 align="center">I'm full-stack developer eager to work on projects that help people learn and do more, in faster and in more enjoyable (read <em>fun</em>) ways.</h3>      
 
 - 🚻 My pronouns are **He/Him**
 
