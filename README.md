@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ari</h1>
-<h3 align="center">A full-stack developer eager to contribute to projects that help people do and learn more, faster, and in enjoyable (and hopefully fun) ways.</h3>
+<h3 align="center">A full-stack developer eager to contribute to projects that help people learn and do more, faster, and in enjoyable (and hopefully fun) ways.</h3>
 
 - 🚻 My pronouns are **He/Him**
 
