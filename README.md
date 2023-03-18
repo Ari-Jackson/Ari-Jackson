@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ari</h1>
-<h3 align="center">A full-stack developer eager to contribute to projects that help people learn and do more, faster, and in enjoyable (and hopefully fun) ways.</h3>
+![header](/header.png)
+
+<h3 align="center">I'm full-stack developer eager to work on projects that help people learn and do more, faster, and in more enjoyable (read fun) ways.</h3>      
 
 - 🚻 My pronouns are **He/Him**
 
@@ -7,11 +8,11 @@
 
 - 🌱 I’m currently learning **how to think in systems**
 
-- 👨‍💻 All of my projects are available at [https:ari-jackson.github.io/](https:ari-jackson.github.io/)
+- 👨‍💻 All of my projects are available at [https:ari-jackson.github.io/](ari-jackson.github.io/)
 
 - 📫 How to reach me **arijackson@pursuit.org**
-
-<h3 align="left">Languages and Tools:</h3>
+<br>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
@@ -29,4 +30,5 @@
   <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
 </p>
 
+<br>
 <p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=ari-jackson&show_icons=true&locale=en" alt="ari-jackson-git-stats-widget" /></p>
