@@ -33,4 +33,4 @@
 </p>
 
 <br>
-<p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=ari-jackson&show_icons=true&locale=en" alt="ari-jackson-git-stats-widget" /></p>
+<p  align="center"><img src="https://github-readme-stats.vercel.app/api?username=ari-jackson&show_icons=true&locale=en" alt="ari-jackson-git-stats-widget" /><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ari-jackson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ari-jackson-git-stats-widget" /></p>
