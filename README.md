@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **hAdventure, a gamified tracker for tasks, habits, and routines**
 
-- 🌱 I’m currently learning **Next.js and Firebase**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [ari-jackson.github.io](https://ari-jackson.github.io/)
 
