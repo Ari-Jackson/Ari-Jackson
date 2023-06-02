@@ -1,16 +1,16 @@
 ![header](/header.png)
 
-<h3 align="center">I'm full-stack developer eager to work on projects that help people learn and do more, in faster and in more enjoyable (read <em>fun</em>) ways.</h3>      
+<h3 align="center">I'm a full-stack web developer working projects that help people move faster without working harder.</h3>      
 
 - 🚻 My pronouns are **He/Him**
 
-- 🔭 I’m currently working on **hAdventure, a gamified tracker for tasks, habits, and routines**
+- 🛠️ I’m currently working on **[The Shelf](https://the-shelf-ari-jackson.netlify.app/)**, a one-stop book tracker integrated with the Google Books API.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Data Visualization with D3**
 
-- 👨‍💻 All of my projects are available at [ari-jackson.github.io](https://ari-jackson.github.io/)
+- 👨‍💻 Find out more about me and my skills [here](ari-jackson.vercel.app)
 
-- 📫 How to reach me **arijackson@pursuit.org**
+- 📫 If you want to reach me: **arijackson@pursuit.org**
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
