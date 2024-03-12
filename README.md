@@ -1,16 +1,14 @@
 ![header](/header.png)
 
-<h3 align="center">I'm a full-stack web developer working projects that help people move faster without working harder.</h3>      
+<h3 align="center">I'm a full-stack developer working on projects that help people move faster.</h3>      
 
-- 🚻 My pronouns are **He/Him**
+- 🚻 My pronouns are **he/him**
 
 - 🛠️ I’m currently working on **[The Shelf](https://the-shelf-ari-jackson.netlify.app/)**, a one-stop book tracker integrated with the Google Books API.
 
-- 🌱 I’m currently learning **Data Visualization with D3**
+- 🌱 I’m currently learning **Go**
 
-- 👨‍💻 Find out more about me and my skills [here](ari-jackson.vercel.app)
-
-- 📫 If you want to reach me: **arijackson@pursuit.org**
+- 📫 If you want to reach me: **AJjackson014@gmail.com**
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
